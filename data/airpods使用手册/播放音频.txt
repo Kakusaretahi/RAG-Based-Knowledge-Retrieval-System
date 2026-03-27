@@ -1,0 +1,30 @@
+在 AirPods、AirPods Pro 或 AirPods Max 上播放音频
+佩戴 AirPods 时，你可以使用控制播放、暂停或跳过 iPhone、iPad、Mac 或 Apple Watch 上播放的音频。
+
+播放和暂停音频
+【提示】如果拥有 AirPods 4、AirPods Pro 2 或 AirPods Pro 3，你可以选择在使用 iPhone、iPad、或 Mac 聆听音频期间入睡时自动暂停音频。请参阅更改 AirPods 或 AirPods Pro 设置。
+佩戴一只或两只 AirPods，并确保其已连接到你的设备。
+前往音频 App，然后播放一些内容，例如，在“音乐” App  中播放歌曲，或在“图书” App  中播放有声书。
+若要暂停或停止音频，请执行以下一项操作：
+AirPods 1 或 2：若要在使用两只 AirPods 聆听时暂停音频，请摘下其中一只。将其重新放回耳中时会自动恢复播放。
+【注】你还可以将任一只 AirPod 设为轻点两下后暂停，再次轻点两下后恢复播放。请参阅更改 AirPods 或 AirPods Pro 设置。
+AirPods 3、AirPods 4 或 AirPods Pro：若要在使用两只 AirPods 聆听时暂停音频，请摘下其中一只。你还可以按下耳机柄暂停音频。
+放回耳中或再次按下耳机柄时，播放会继续。
+AirPods Max：按下数码旋钮。再次按下恢复播放。
+你还可以从头上摘下 AirPods Max 来暂停或停止音频。
+如果不想让 AirPods 或 AirPods Pro 自动播放和停止播放音频，你可以关闭自动人耳检测。如果不想让 AirPods Max 自动播放和停止播放音频，你可以关闭自动头部检测。
+
+跳过音轨
+你可以使用 AirPods 在许多音频 App 中跳到另一个音轨。例如，你可以跳到“音乐”中的下一首歌曲，或者跳到“播客” App  中的上一个单集。
+AirPods 1：你可以将 AirPods 设为轻点两下快进或快退。请参阅更改 AirPods 或 AirPods Pro 设置。
+AirPods 2：AirPods 已自动设为轻点两下跳到下一首。
+若要自定义轻点两下操作，请参阅更改 AirPods 或 AirPods Pro 设置。
+AirPods 3、AirPods 4 或 AirPods Pro：按两下任一只 AirPod 的耳机柄跳到下一首。
+若要跳回，请按三下耳机柄。
+AirPods Max：按两下数码旋钮跳到下一首。
+若要跳回，请按三下数码旋钮。
+调整 AirPods Pro 2 和 AirPods Pro 3 上的音量
+通过触控操作区域，你可以在耳机柄上向上或向下轻扫调整音量。
+如果不想通过轻扫耳机柄控制音量，你可以关闭该设置。请参阅更改 AirPods 的力度感应器、触控操作区域或按钮设置。
+检查和限制耳机音量
+你可以使用 iPhone 或 iPad 监控和限制 AirPods 的音量。请参阅《iPhone 使用手册》中的检查耳机音量。

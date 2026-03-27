@@ -1,0 +1,56 @@
+将 AirPods 与 Apple 设备配对
+将 AirPods 与 Apple 设备配对以聆听音乐、电影和信息等内容。你还可以使用 AirPods 通过兼容的设备接打电话以及 FaceTime 通话。
+使用一台 Apple 设备（如 iPhone）设置 AirPods 后，AirPods 会自动连接到登录相同 Apple 账户的其他 Apple 设备。
+如果不确定使用的 AirPods 是哪一款，请参阅我的 AirPods 是哪一款？
+
+将 AirPods 与 iPhone 或 iPad 配对
+开始前，请先确保你的设备已安装最新版本的 iOS 或 iPadOS。配对时，你的设备还必须接入无线局域网或蜂窝网络，否则你可能无法访问“查找”功能。
+在 iPhone 或 iPad 上，前往“设置” App 。
+轻点“蓝牙”，打开蓝牙，然后执行以下一项操作：
+AirPods 或 AirPods Pro：打开内含 AirPods 的充电盒，然后将其靠近待配对设备，直至设置动画出现。
+AirPods Max：将 AirPods Max 从智能耳机套中取出，然后在 60 秒内将其靠近待配对设备，直至设置动画出现。
+你也可以使用音频线将 AirPods Max 与设备连接。
+按照屏幕指示操作，然后轻点“完成”。
+如果未看到设置动画，你可以手动将 AirPods 与设备配对。
+将 AirPods 与 Mac 配对
+开始前，请先确保你的 Mac 已安装最新版本的 macOS。
+在 Mac 上，前往“系统设置” App 。
+点按边栏中的“蓝牙”。
+确保蓝牙已打开，然后执行以下一项操作：
+AirPods 1、2 或 3 或者 AirPods Pro 1 或 2：打开内含 AirPods 的充电盒，将其靠近你的 Mac，然后按住 AirPods 充电盒背面的设置按钮约 5 秒钟，或直到状态指示灯呈白色闪烁。
+AirPods 4 或 AirPods Pro 3：打开内含 AirPods 的充电盒，将其靠近你的 Mac，然后轻点两下 AirPods 充电盒的正面，使状态指示灯呈白色闪烁。
+AirPods Max：按住噪声控制按钮约 5 秒钟，或直到状态指示灯呈白色闪烁。
+你也可以使用音频线将 AirPods Max 与设备连接。
+在设备列表中，选择你的 AirPods，然后点按“连接”。
+【提示】你还可以在菜单栏中显示蓝牙设置，使 AirPods 配对更轻松。
+将 AirPods 与 Apple Watch 配对
+开始前，请先确保你的 Apple Watch 已安装最新版本的 watchOS。
+在 Apple Watch 上，前往“设置” App 。
+轻点“蓝牙”，然后在蓝牙屏幕上轻点你的 AirPods 进行连接。
+如果未看到设置动画，你可以手动将 AirPods 与设备配对。
+将 AirPods 与 Apple Vision Pro 配对
+开始前，请先确保你的 Apple Vision Pro 已安装最新版本的 visionOS。
+若要获得更佳沉浸式体验，你可以配对 AirPods 4、AirPods Pro 2 (USB-C) 或 AirPods Pro 3，其与 Apple Vision Pro 配对后可提供无损音频且延迟超低（使用专有无线音频协议）。AirPods 2、AirPods 3、AirPods Pro 1、AirPods Pro 2（闪电）和 AirPods Max 无线耳机使用 Apple AAC 蓝牙编解码器确保出色的音频质量。不过，蓝牙连接并非无损。
+在 Apple Vision Pro 上，前往“设置” App 。
+轻点“蓝牙”。
+请执行以下一项操作：
+AirPods 1、2 或 3 或者 AirPods Pro 1 或 2：当 AirPods 在充电盒内时，打开盖子，然后按住 AirPods 充电盒背面的设置按钮约 5 秒钟，或直到状态指示灯呈白色闪烁。
+AirPods 4 或 AirPods Pro 3：打开内含 AirPods 的充电盒，将其靠近你的设备，然后轻点两下 AirPods 充电盒的正面，使状态指示灯呈白色闪烁。
+AirPods Max：从智能耳机套中取出 AirPods Max，按住 AirPods Max 上的噪声控制按钮约 5 秒钟，或直到指示灯呈白色闪烁。
+轻点“其他设备”下方的 AirPods。
+有关搭配 Apple Vision Pro 使用 AirPods 的更多信息，请参阅 Apple 支持文章：搭配 Apple Vision Pro 使用 AirPods。
+【注】无损音频仅在连接 Apple Vision Pro 后才可用。可用性因地区而异。
+使用音频线连接 AirPods Max
+你可以使用支持的音频线将 AirPods Max 与设备连接。
+AirPods Max（闪电）：将 Apple 闪电转 3.5 毫米音频线连接至 AirPods Max 上的充电端口和设备上的耳机插孔。
+AirPods Max (USB-C)：将 Apple USB-C 转 3.5 毫米音频线连接至 AirPods Max 上的充电端口和设备上的耳机插孔。
+你还可以通过 USB-C 转 USB-C 连接线将 AirPods Max 连接到配备 USB-C 端口的 iPhone、iPad 或 Mac。若要使用完整功能，请打开相连设备上的蓝牙。（需要 iOS 18.4、iPadOS 18.4、macOS 15.4 或更高版本。）
+手动将 AirPods 与设备配对
+如果尝试将 AirPods 连接到设备且未看到设置动画，你可以手动将 AirPods 与设备配对。
+请执行以下一项操作：
+AirPods 4 或 AirPods Pro 3：打开内含 AirPods 的充电盒，将其靠近你的设备，然后轻点两下充电盒的正面，使状态指示灯呈白色闪烁。
+AirPods Max：按住 AirPods Max 上的噪声控制按钮约 5 秒钟，或直到指示灯呈白色闪烁。
+如果使用 AirPods Max (USB-C)，你还可以使用 USB-C 转 USB-C 连接线将 AirPods 与设备连接来配对。
+其他 AirPods 型号：打开内含 AirPods 的充电盒，将其靠近你的设备，然后按住充电盒背面的设置按钮，直至状态指示灯呈白色闪烁。
+在设备上前往“设置” App （在 Mac 上则前往“系统设置” App）。
+轻点或点按“蓝牙”，然后在 AirPods 出现在列表中时进行选择。
